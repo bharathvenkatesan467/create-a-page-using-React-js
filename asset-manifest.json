@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bharathvenkatesan467/create-a-page-using-React-js/static/css/main.b697e16b.css",
+    "main.js": "/bharathvenkatesan467/create-a-page-using-React-js/static/js/main.0bc6d8bc.js",
+    "static/js/453.3c3c57d0.chunk.js": "/bharathvenkatesan467/create-a-page-using-React-js/static/js/453.3c3c57d0.chunk.js",
+    "static/media/logo.svg": "/bharathvenkatesan467/create-a-page-using-React-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bharathvenkatesan467/create-a-page-using-React-js/index.html",
+    "main.b697e16b.css.map": "/bharathvenkatesan467/create-a-page-using-React-js/static/css/main.b697e16b.css.map",
+    "main.0bc6d8bc.js.map": "/bharathvenkatesan467/create-a-page-using-React-js/static/js/main.0bc6d8bc.js.map",
+    "453.3c3c57d0.chunk.js.map": "/bharathvenkatesan467/create-a-page-using-React-js/static/js/453.3c3c57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b697e16b.css",
+    "static/js/main.0bc6d8bc.js"
+  ]
+}
